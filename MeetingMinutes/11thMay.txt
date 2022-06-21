@@ -1,0 +1,15 @@
+Present:
+* Harry
+* Oliver
+* James
+* Tommi
+
+Main purpose of the meeting
+
+* We made surthat we had the CMS working to show the client as that was one of their main requirements.
+* Also went through the powerpoint slides and made notes of a script on what to say for each slide for out client presentation on the 12th May
+
+Future plans:
+
+* Getting the website hosted online so anyone could access the CMS if needed to.
+* Prepare for the Marketplace demo on the 17th May.

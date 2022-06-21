@@ -1,0 +1,82 @@
+
+
+.button-group {
+    margin-top: 50px;
+    margin-bottom: 50px;
+    align-items: center;
+}
+
+.Home-section  {
+    flex: 1 0 auto;
+}
+
+.Home-section .title {
+    color: white;
+}
+
+.Home-section .custom-card .button-group #btn-1{
+    margin-right: 50px;
+}
+
+.Home-section .custom-card .button-group #btn-2{
+    margin-left: 50px;
+}
+
+.button {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0.7rem 2rem;
+    font-size: 18px;
+    text-align: center;
+    text-decoration: none;
+    color: #fff;
+    backface-visibility: hidden;
+    border: 0.3rem solid transparent;
+    border-radius: 3rem;
+    border-color: transparent;
+    background-color: #6BAFFF;
+    color: #000;
+    transition: transform 1s cubic-bezier(0.235, 0, 0.05, 0.95);
+    transition: box-shadow 1s;
+}
+
+.button:hover {
+    transform: perspective(1px) scale3d(1.044, 1.044, 1) translateZ(0) !important;
+    box-shadow: 0px 0px 20px 8px #abd2ff;
+    text-decoration: none;
+    color: black !important;
+}
+  
+.card {
+    padding: 0.7rem 2rem;
+    background: #f2f2f2;
+    overflow: hidden;
+    border-radius: 20px;
+    border: 5px solid black;
+    box-shadow: 0 0 20px 8px #d0d0d0;
+}
+
+.cards {
+    max-width: 80%;
+    margin: auto auto;
+    display: grid;
+    grid-gap: 1rem;
+}
+
+@media (min-width: 800px) {
+    .cards { grid-template-columns: repeat(2, 1fr); }
+  }
+
+  @media (min-width: 1400px) {
+    .cards { grid-template-columns: repeat(3, 1fr); }
+  }
+  .card {
+      width: 100%;
+  }
+
+@media  (max-width: 618.24px) {
+    .card {
+        width: 100%;
+    }
+}

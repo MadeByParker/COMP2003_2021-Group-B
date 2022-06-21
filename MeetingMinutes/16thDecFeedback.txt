@@ -1,0 +1,91 @@
+James,
+
+Good morning. Let me begin by saying there’s a lot I like about what you’ve sent me, so unless I say otherwise, please take it that I’m happy. There are also some tweaks to some of the body copy I could make, but I’ve tended to ignore that for now.
+
+Also the menu bar headings and options should be those shown on the spreadsheet you have previously been provided with, and not those from our existing website!
+
+Home Page
+Only the one Facebook post please, which ideally we need to be able to determine as it may not be the most recent, so the New Facebook Posts and Important Facebook Posts headings will need to change to reflect this, perhaps reading just Facebook? The box could also be bigger, possibly to accommodate a reduced size version of the actual post, but not any comments that it may have elicited.
+
+News should simply display the three most recent news stories posted to the site, and arguably also be simply headed News, with a More News button below to take users to a News home page where, in addition to initially displaying recent news stories (paginated?), users will also be able to search the News archive by a combination of such criteria as Date from/to, Topic (planning, trees, etc) and Parish. Should the user select any or all of those criteria then the page would display those stories, sorted in descending order from Most Recent, and paginated if necessary.
+
+Page 2
+Not sure (I’ve forgotten, apologies) what this is about but can probably be dispensed with. Also users cannot post comments on our site (as a charity we have to control what appears on it, but they are welcome to have their say on our Facebook page.
+
+Page 3: About South Hams
+The heading should really read either About Us, About the South Hams Society, or simply The South Hams Society.
+
+Similarly Our Objectives rather than Our Aims Are and Our Purpose as opposed to Why We Exist please.
+
+We also don’t need the colon after the heading(s).
+
+Also I am always very nervous about wobing text (white out of black or any other colour for that matter). It just about works here, at this scale, but I’m going to need persuading that it can work as well on smaller displays, particularly given the age (and eyesight!) of many of our members. This caveat applies throughout!
+
+Page 4: Planning + The Natural Environment
+No new Facebook posts here please. We could perhaps replace this with Recent Objections, and perhaps our three most recent objections, along with a button to All Objections, a page initially displaying our recent objections, but again sortable by a combination of such criteria as Date from/to, Topic (planning, trees, etc) and Parish. And again, should the user select any or all of those criteria then the page would display those stories, sort in ascending order from Most Recent, and paginated if necessary.
+
+The Join Membership box here can be dropped if necessary.
+
+Under Planning can we please have More about Planning and how to object – click here.
+
+Page 5: Membership
+Rather than What is the South Hams Society Membership About? could we please substitute Why you should join. You should also allow for another couple of lines of body copy here as well so that we can say why!
+
+Similarly, rather than What does the South Hams Society Membership Include? can we say Membership Options please.
+
+Family should read (up to 2 adults and 2 children a the same address) and rather than With the family membership the two adults have voting rights substitute (both adults have voting rights).
+
+The two subsequent lines can be dropped and rather than the single Start Membership Application Form button, two separate buttons, one reading Individual Membership, the other Family Membership, taking users to the relevant application form.
+
+Page 6: Membership Form
+Heading should read either Individual Membership or Family Membership, depending.
+
+Also need to capture whether applicants feel they might be able to help the Society and, if so, in what capacity.
+
+We should also try to capture applicants’ surnames!
+
+We’ve previously discussed what needs to be on the Family Membership form, so I’ll refrain from repeating myself here.
+
+Finally, members should ideally be able to log in and edit their details, for example change of address, etc. Perhaps we could automatically send them a welcome email after they have signed up telling them how they can do so?
+
+Page 7: Standing Order Mandate
+We don’t need to show the Amount (£ - in figures) as we will already know how much it is depending on whether applicants are coming from the Individual Membership or Family Membership forms. Instead we could prepopulate the heading body copy Please pay the South Hams Society, sort code 53-61-37, account number 08607397 at
+NatWest Bank, now and on the 1st January hereafter, the sum of £10 (or £15, depending).
+
+Page 8: Our Landscape
+In principal, yes, and subject to my previously expressed concerns about both white out text and the menu bar, although eventually we should try and ensure the left hand photograph on the first row is the same depth as the picture immediately to its right.
+
+We also could consider running the other pages that come under The South Hams menu bar option, namely Our Coast & Estuaries, Our Economy, South Devon AONB and Devon’s Landscapes as a series of buttons in a row across the bottom of the page?
+
+Page 9: About the SHS Guide
+As previously noted, the actual menu bar option should display Planning, with the first page that comes under that option being Introduction. Again the other pages that come under this menu bar option could be shown as as a series of buttons in a row across the bottom of the page.
+
+Page 10: Planning News
+Please see my comments under Home Page above
+
+Page 11: Society Events
+These may not always be Society Events, they could be events organised by others in which we are participants, so the heading need only read Events.
+
+We should also differentiate and show previous and forthcoming events.
+
+Page 12: Contact a Committee Member
+Rather than Contact a Committee Member this should simply read Contact.
+
+Title / Tag of Commitee Member should be replaced by subject, allowing the user to select from a predefined list including Other (please specify) with somewhere, if that option is selected, to specify. Depending on which option is selected an email should then go to the relevant committee member as well as the Society’s Gmail address.
+
+The Write a Message box could usefully be larger.
+
+Page 13: Admin Login
+Fine
+
+Page 14: Social Media Admin Controls
+I suspect we would prefer to continue to create Facebook posts on our Facebook page itself. All we really need to be able to do here is decide which posts should appear on the front page of the site.
+
+Page 15:  Full Admin Controls
+See the point about Facebook immediately above. Otherwise fine. We will also need whoever has Full Admin Control to specify who can post news items, planning objections and the suchlike, (will not necessarily be the same people for all content types) and those individuals will need to be able to log in and post and edit content of that type.
+
+James and team, suffice to say overall impressive, and very many thanks. Any questions, please shout. Otherwise, have a very happy, healthy and safe Christmas.
+
+With very best wishes,
+
+Richard Howell

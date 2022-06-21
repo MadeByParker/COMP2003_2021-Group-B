@@ -1,0 +1,27 @@
+Present in Meeting:
+
+Harry
+James
+Thomas
+
+Absent:
+
+* Oliver - authorised due to WiFi Issues - but later caught up with what was discussed
+
+Meeting events:
+
+* Made important decision of what libraries are going to be used.
+
+In the end, we decided on using Bootstrap 4.0 for the Custom HTML/CSS Library, later found Font-Awesome Icons could be
+used for copyright symbol, etc...
+
+* Made decisions allocating which pages each team member was going to design and implement into the prototype.
+
+This ensures that we use the time efficiently and there's no duplication of work being carried out therefore loss of time.
+
+* Discussed the risk management and communication plans.
+
+* Thomas was in charge of the going through the risk management plan.
+* Harry initially set up responbilities for each team member to ensure efficent time usage before we collectively agreed on the roles for the new sprint.
+* Oliver, after the last meeting, had a boilerplate template for when we move our Website onto Drupal.
+* James was in charge of the communication plan.

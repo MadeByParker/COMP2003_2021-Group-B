@@ -1,0 +1,42 @@
+Thoughts re your screen shots as follows – please take it I‘m happy(!) unless I say otherwise:
+
+Who We Are
+Important Links – we only have the one constitution! Also not sure about including the heading 'Important Links’ – perhaps just the links themselves, in this case to the other pages under the ‘About’ menu and a couple of others, namely – Our Constitution, Our History, Our Achievements, What We Are Doing, Our Supporters, Membership, Privacy Policy
+
+Contact Us
+Can we move the whole box up closer to the ‘Contact Us’ heading and so make the ‘Your message’ box larger?
+
+Family Membership Form
+Rather or as well as than their phone number (and I suspect some will not give it to us, so it should not be compulsory) we should certainly capture their email address.
+
+I suspect we should capture both town and postcode separate from the rest of the address so that we can, if we decide to do so, automatically be able to populate their details with the name of the parish in which they reside.
+
+Preferred methods of contact should be multiple choice (all acceptable options selectable) so that we can, if we wish and are permitted, default to email whenever expedient.
+
+Interests should again be multiple choice (as radio buttons or tick boxes?) to make it easier to filter to select recipients of targeted emails (ie all showing an interest in trees).
+
+Rather than ‘Add Person’ perhaps ‘Add Second Adult’ with a separate button to ‘Add Children’?
+
+Individual Membership Form
+See relevant comments under 'Family Membership Form'.
+
+Our Landscape
+In principle, yes, but we will probably amend the text, which may require the text boxes to be larger to accommodate.
+
+Login
+Fine
+
+Membership info
+Again fine, but we will change the ‘why you should join the society’ text and the heading ‘why you should join the society’ to ‘The Benefits of Membership’
+
+News
+Afraid I‘m still really not comfortable with this as it stands – how’s about on larger screens two rows of three boxes (could change to three rows of two boxes on narrower displays and six rows of on box on phones)?
+
+Were you to agree we will almost certainly want to include a photo or illustration with every story so perhaps within the box headline on top of photo on top of text?
+
+And, rather than ‘Latest Facebook Post’, ‘Find Us on Facebook’ as we all not always want to show the most recent but rather the most recent relevant post.
+
+Planning
+The text box will need to grow and the text in the box under the ‘Introduction to Planning’ will both change and expand.
+
+Final couple of points – in the main menu it should be ‘Contact’ not ‘Contact Us’ as under that menu are ways to contact not just the Society but also others such as councillors, tree wardens and others.

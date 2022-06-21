@@ -1,0 +1,336 @@
+!DOCTYPE html
+html lang=en
+head
+    meta charset=utf-8 
+          meta charset=utf-8 
+    meta name=viewport content=width=device-width, initial-scale=1, shrink-to-fit=no 
+    link rel=stylesheet href=httpsmaxcdn.bootstrapcdn.combootstrap4.0.0cssbootstrap.min.css integrity=sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAWdAiS6JXm crossorigin=anonymous
+
+    link rel=stylesheet href=httpsuse.fontawesome.comreleasesv5.11.2cssall.css
+
+    link rel=stylesheet href=httpsfonts.googleapis.comcssfamily=Roboto300,400,500,700&display=swap
+    link rel='stylesheet' href='httpsfonts.googleapis.comiconfamily=Material+Icons'
+    link rel='stylesheet' href='httpsdrive.google.comucexport=view&id=1rIaHYw4PJK2aDg3yWV5nfYumLF9_HQBo'
+    link rel='stylesheet' href='httpsdrive.google.comucexport=view&id=1Kw7o0TXmjKxqmAPWhOVtbu31Tt1Nw9iz'
+    titleSouth Hams Society Membershiptitle
+head
+body
+    header
+      nav class=navbar sticky-top navbar-expand-lg navbar-light id=navbar-custom
+            a class=navbar-brand href=..IndexIndex.htmltxpimage id=12 style=width 50px; height 50px; txpthumbnail a
+            div class=Name href=# South Hams Societydiv
+            button style=border none; class=navbar-toggler type=button data-toggle=collapse data-target=#navbarNav aria-controls=navbarNav aria-expanded=false aria-label=Toggle navigation
+                span class= role=buttoni class=fa-solid fa-circle-chevron-down style=font-size 24px; color white;ispan
+            button
+            div class=collapse navbar-collapse id=navbarNav
+                ul class=navbar-nav
+                    li class=nav-item dropdown
+                        a class=nav-link dropdown-toggle href=# id=current-nav role=button data-toggle=dropdown aria-haspopup=true aria-expanded=false
+                          Home
+                        a
+                        div class=dropdown-menu aria-labelledby=current-nav
+                          a class=dropdown-item href=.Homea
+                          
+                          a class=dropdown-item href=.index.phps=membershipinfoMembershipa
+                          a class=dropdown-item href=.login.htmlLogina
+                          
+                        div
+                      li
+                      li class=nav-item dropdown
+                        a class=nav-link dropdown-toggle href=# id=navbarDropdown role=button data-toggle=dropdown aria-haspopup=true aria-expanded=false
+                          About
+                        a
+                        div class=dropdown-menu aria-labelledby=navbarDropdown
+                          a class=dropdown-item href=.index.phps=whoweareWho we area
+                          a class=dropdown-item href=..AboutOurHistory.htmlOur Historya
+                          a class=dropdown-item href=..AboutOurAchievements.htmlOur Achievementsa
+                          a class=dropdown-item href=..AboutWhatAreWeDoing.htmlWhat Are We Doinga
+                          a class=dropdown-item href=..ContactOurSupporters.htmlOur Supportersa
+                        div
+                      li
+                      li class=nav-item dropdown
+                        a class=nav-link dropdown-toggle href=# id=navbarDropdown role=button data-toggle=dropdown aria-haspopup=true aria-expanded=false
+                          The South Hams
+                        a
+                        div class=dropdown-menu aria-labelledby=navbarDropdown
+                          a class=dropdown-item href=.index.phps=ourlandscapeOur Landscapea
+                          a class=dropdown-item href=..LandscapesOurCoast&Estuaries.htmlOur Coast & Estuariesa
+                          a class=dropdown-item href=..LandscapesOur Economy.htmlOur Economya
+                          a class=dropdown-item href=..LandscapesDevonsAONB.htmlSouth Devon AONBa
+                          a class=dropdown-item href=..LandscapesDevonsLandscapes.htmlDevon's Landscapesa
+                        div
+                      li
+                      li class=nav-item dropdown
+                        a class=nav-link dropdown-toggle href=# id=navbarDropdown role=button data-toggle=dropdown aria-haspopup=true aria-expanded=false
+                          Planning
+                        a
+                        div class=dropdown-menu aria-labelledby=navbarDropdown
+                          a class=dropdown-item href=.index.phps=planningintroIntroductiona
+                          a class=dropdown-item href=..PlanningPlanningProcess.htmlThe Planning Processa
+                          a class=dropdown-item href=..PlanningHowToObject.htmlHow to Objecta
+                          a class=dropdown-item href=..PlanningMaterialConsiderations.htmlMaterial Considerationsa
+                          a class=dropdown-item href=..PlanningObjections.htmlOur Objectionsa
+                          a class=dropdown-item href=..PlanningCampaigns.htmlCampaigning Tipsa
+                        div
+                      li
+                      li class=nav-item dropdown
+                        a class=nav-link dropdown-toggle href=# id=navbarDropdown role=button data-toggle=dropdown aria-haspopup=true aria-expanded=false
+                          Trees
+                        a
+                        div class=dropdown-menu aria-labelledby=navbarDropdown
+                          a class=dropdown-item href=.index.phps=treesandhedgerowsTrees and Hedgerowsa
+                          a class=dropdown-item href=..TreesWoodlands.htmlOur Woodlandsa
+                          a class=dropdown-item href=..TreesWhyTreesMatter.htmlWhy Trees Mattera
+                          a class=dropdown-item href=..TreesProtectingTrees.htmlProtecting Treesa
+                        div
+                      li
+                li class=nav-item
+                    a class=nav-link href=.index.phps=eventsEvents i class=fas fa-chevron-downia
+                li
+                li class=nav-item dropdown
+                    a class=nav-link dropdown-toggle href=# id=navbarDropdown role=button data-toggle=dropdown aria-haspopup=true aria-expanded=false
+                      Contact
+                    a
+                    div class=dropdown-menu aria-labelledby=navbarDropdown
+
+                      a class=dropdown-item href=.index.phps=contactContacta
+                      a class=dropdown-item href=..ContactCouncillors.htmlOur Councillorsa
+
+                      a class=dropdown-item href=..ContactTreeWardens.htmlTree Wardensa
+                      a class=dropdown-item href=..ContactOtherLinks.htmlOther Linksa
+                    div
+                  li
+                ul
+            div
+        nav
+    header
+
+    main role=main class=main
+
+        section class=Individual-Form-section
+          div class=title
+                h1Individual Membership Formh1    
+            div  
+            div class=card
+              div class=col-md-12 order-md-1
+                  form id=signupform action=..MembershipMembershipInfo.html
+                      div class=registration
+                          div class=mb-3 form-group
+                              label for=FormSelectTitleTitlespan style=color red  spani class=fas fa-info-circleilabel
+                              select class=form-control id=FormSelectTitle
+                                  option selectedTitleoption
+                                  option value=1Mroption
+                                  option value=2Mrsoption
+                                  option value=3Msoption
+                                  option value=4Missoption
+                                  option value=5Droption
+                                  option value=6Professoroption
+                              select
+                          div
+                          div class=mb-3 form-group
+                              label for=firstNameInputFirst Namespan style=color red  spani class=fas fa-info-circleilabel
+                              input type=text class=form-control id=firstNameInput placeholder=First Name value= required
+                              div class=invalid-feedback
+                                  Please enter your first name.
+                              div
+                          div
+                          div class=mb-3 form-group
+                              label for=lastNameInputLast Namespan style=color red  spani class=fas fa-info-circleilabel
+                              input type=text class=form-control id=lastNameInput placeholder=Last Name value= required
+                              div class=invalid-feedback
+                                  Please enter your last name.
+                              div
+                          div
+
+                          div class=mb-3 form-group
+                              label for=typePhonePhone Numberspan style=color red  spani class=fas fa-info-circleilabel
+                              input type=tel id=typePhone class=form-control placeholder=Phone Number value= required 
+                              div class=invalid-feedback
+                                  Please enter a phone number.
+                              div
+                          div
+
+
+                          div class=mb-3 form-group
+                              label for=EmailInputEmail Addressspan style=color red  spani class=fas fa-info-circleilabel
+                              input type=text class=form-control id=EmailInput placeholder=Email Address value= required
+                              div class=invalid-feedback
+                                  Please enter a valid email address.
+                              div
+                          div
+
+                          div class=mb-3 form-group
+                              label for=PasswordInputPasswordspan style=color red  spani class=fas fa-info-circleilabel
+                              input type=text class=form-control id=PasswordInput placeholder=Password value= required
+                              div class=invalid-feedback
+                                  Please enter a password.
+                              div
+                          div
+
+
+                          div class=mb-3 form-group
+                              label for=AddressInputAddressspan style=color red  spani class=fas fa-info-circleilabel
+                              input type=text class=form-control id=AddressInput placeholder=Address value= required
+                              div class=invalid-feedback
+                                  Please enter a valid address.
+                              div
+                          div
+
+                          div class=mb-3 form-group
+                              label for=FormSelectPaymentPayment Methodspan style=color red  spani class=fas fa-info-circleilabel
+                              select class=form-control id=FormSelectPayment                                  
+                                  option value=1Paypaloption
+                                  option value=2Standing Orderoption
+                              select
+                          div
+
+                          div class=mb-3 form-group
+                              label for=FormSelectContact
+                                  Preferred method of contactspan style=color red  spani class=fas fa-info-circlei
+                                  br
+                                  (you can change your preferred method of contact at any time)
+                              label
+                              select class=form-control id=FormSelectContact                                  
+                                  option value=1Emailoption
+                                  option value=2Text Messageoption
+                                  option value=3Mailoption
+                              select
+                          div
+
+                          div class=subtitle style=font-weight 900;
+                              h3Your Interestsh3
+                          div
+
+                          div class=mb-3 form-group
+                              label for=myMultiMain Interestspan style=color red  spani class=fas fa-info-circleilabel
+                              select multiple=multiple id=myMulti                                  
+                                  option value=1Wildlifeoption
+                                  option value=2Economyoption
+                                  option value=3Landscapeoption
+                                  option value=4Treesoption
+                                  option value=5Otheroption
+                              select
+                          div
+
+                          div class=mb-3 form-group
+                              label for=otherInterestsInputOther Interests can be typed herelabel
+                              input type=text class=form-control id=otherInterestsInput placeholder=Other Interests value= required
+                              div class=invalid-feedback
+                                  Please enter any other interests
+                              div
+                          div
+
+                          div class=mb-3 form-group
+                              label for=verificationAre you a robotspan style=color red  spani class=fas fa-info-circleilabel
+                              input type=text class=form-control id=verification placeholder=Please verify yourself. required
+                              div class=invalid-feedback
+                                  Please verify yourself.
+                              div
+                          div
+
+                          div class=mb-3 form-group
+                              div class=custom-control custom-checkbox
+                                  input type=checkbox class=custom-control-input id=customCheck1
+                                  label class=custom-control-label for=customCheck1 onclick=ShowHideDiv(this)Check this custom checkbox if you want to pay by standing orderlabel
+                              div
+                          div
+                      div
+
+                  form
+                    div class=Standing-Order-Individual-Section id=standing-order style=padding-top20px; display none
+                      div class=subtitle
+                        h1Standing Order Mandateh1    
+                        h4Only if you are paying by a Standing Order Mandatebr
+                            Please pay the South Hams Society br
+                            Sort Code 53-61-17 Account Number 08607397 at Natwest br
+                            now and on the 1st January hereafterh4
+                      div  
+                      form class=form-control
+                      div class=mb-3 form-group
+                          label for=ammountInputAmount (£)span style=color red  spani class=fas fa-info-circleilabel
+                          input type=text class=form-control id=amountInput placeholder=Amount Paying required
+                          div class=invalid-feedback
+                            Please enter the amount needed to pay.
+                          div
+                      div
+                      div class=subtitle style=font-weight 900;
+                          h3Your Bank Detailsh3
+                      div  
+      
+                      div class=mb-3 form-group
+                          label for=bankNameInputspanName of Bankspanspan style=color red  spanspani class=fas fa-info-circleispanlabel
+                          input type=text class=form-control id=bankNameInput placeholder=Bank Name required
+                          div class=invalid-feedback
+                            Please enter the name of the bank you want to pay.
+                          div
+                      div
+                      div class=row
+                          div class=col-md-6 mb-3 form-group
+                          label for=sortCodeInputSort Codelabel
+                          input type=text class=form-control id=sortCodeInput placeholder=Sort Code value= required
+                          div class=invalid-feedback
+                              Valid Sort Code is required.
+                          div
+                          div
+                          div class=col-md-6 mb-3 form-group
+                          label for=AccountNoInputBank Numberlabel
+                          input type=text class=form-control id=AccountNoInput placeholder=Bank Number value= required
+                          div class=invalid-feedback
+                              Valid Account Number is required.
+                          div
+                          div
+                      div
+      
+                      div class=mb-3 form-group
+                          label for=BankAddressInputBank's Addressspan style=color red  spani class=fas fa-info-circleilabel
+                          input type=text class=form-control id=BankAddressInput placeholder=Bank's Address value= required
+                          div class=invalid-feedback
+                            Please enter the bank's address.
+                          div
+                      div
+                      form
+                    div
+                    div class=button-group
+                      a href=..IndexIndex.html class=button id=IndividualMembershipSubmit Forma
+                      a target=_blank href=....AssetsExternalsMembership-form.pdf class=button id=FamilyMembershipDownload Forma
+                  div
+                div
+              div
+          section
+
+    main
+
+    footer class=footer
+        div class=container
+            div class=row
+                div class=footer-column
+                    txpimage id=12 style=width 50px; height 50px; txpthumbnail 
+                div
+                div class=footer-column
+                    a class=nav-link href=#i class=far fa-copyrighti South Hams Societya
+                div
+                div class=footer-column
+                    a class=nav-link href=....AssetsExternalsSouth-Hams-Society-Privacy-Statement-updated-131121.pdfi class=fas fa-user-shieldi Our Privacy Policya
+                div
+                div class=footer-column
+                    a class=nav-link href=#i class=far fa-envelopei Get in Toucha
+                div
+                div class=footer-column
+                    a class=nav-link href=#i class=fas fa-sign-in-alti Join Membershipa
+                div
+                div class=footer-column
+                    div class=icon facebook
+                        div class=tooltipFacebookdiv
+                        a href=httpswww.facebook.comSouthHamsSociety target=_blankspan i class=fab fa-facebook-fispana
+                    div
+                div
+            div
+        div
+    footer
+    script src=httpscode.jquery.comjquery-3.2.1.slim.min.js integrity=sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRrrE9Qpg6aAZGJwFDMVNAGpGFF93hXpG5KkN crossorigin=anonymousscript
+    script src=httpscdnjs.cloudflare.comajaxlibspopper.js1.12.9umdpopper.min.js integrity=sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9KScQsAP7hUibX39j7fakFPskvXusvfa0b4Q crossorigin=anonymousscript
+    script src=httpsmaxcdn.bootstrapcdn.combootstrap4.0.0jsbootstrap.min.js integrity=sha384-JZR6Spejh4U02d8jOt6vLEHfeJQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl crossorigin=anonymousscript
+    script src=httpskit.fontawesome.comdc3bcb73c6.js crossorigin=anonymousscript
+    script src=....Assetsjsmembership.jsscript
+body
+html

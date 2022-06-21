@@ -1,0 +1,17 @@
+Present:
+* James
+
+Purpose of the meeting:
+
+* The client catched up with James to check where we were in the development after the client presentation in January and gave feedback.
+
+
+Feedback to project:
+
+* The client said with the newly added text tranches that display information about the South Hams Society and the South Hams itself, that it should be able to dynamically change depending on what device the user is viewing the website on, e.g. computer monitor or a tablet / smart phone.
+* The images viewed on the website don't use any captions at all to reference what the image is showing. Captions will help those who are interested in what the image specifically show e.g. specific location.
+
+For the future
+
+* Richard has said that he already has a dreamhost hosting address which will connect to the web app which will use the drupal CMS.
+* Also we will aim to implement a backend for	 the login details and the membership details if users wish to sign up for the society 

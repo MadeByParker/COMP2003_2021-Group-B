@@ -1,0 +1,46 @@
+Requirements given from client:
+
+Needs an Admin Page- A BIG NEED
+- needs to be able to control what exactly gets posted on the site
+- 10 admin accounts
+- 2 layers of admin control, complete site control, and just posting
+- facebook posts controlled by admins
+
+News section needs to be a BIG THING
+
+About Us can be a seperate page off burger menu
+
+
+not keen on huge slabs of text, keep to small paragraphs 
+- needs to be easy to read
+- happy for standard white back/black text colour scheme
+- doesnt matter what colour scheme, but should be consistent throughout
+- can do different colours for different tagged articles
+
+
+
+IDEA
+- 3 main articles with headline plus small paragraph of text, linked to article
+- each article has tags, so when searched for, all tagged articles appear - trees, planning etc etc
+
+
+Wants a complex search filter
+- date + location + tag
+
+
+Membership- offers individual and family
+- family min 2 members, max 4. two adults have voting rights.
+- all accounts need both first and surname.
+
+Membership Form
+- needs to have contact numbers - both mobile & landline
+- Have interests that must be selected in order to continue
+- letters captcha only
+
+Contact form
+- needs to have title/tag so to be directed to correct committee member
+
+
+Extra
+- IP Blocking
+- Email Blocking

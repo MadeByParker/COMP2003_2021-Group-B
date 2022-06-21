@@ -1,0 +1,20 @@
+﻿Meeting Notes: 24/03/22
+
+
+Present: James, Harry, Oliver, Thomas
+
+
+Key Points:
+Drupal Version?
+Drupal Template?
+Text Tranches complete?
+Sorting out hosting
+
+
+Decisions:
+
+
+Drupal Version 9 is to be used
+Drupal Template will be worked on by Oliver
+Text tranches will be worked on by James, Harry and Thomas
+James will speak with Shirley about organising server for hosting the site and also for SQL.

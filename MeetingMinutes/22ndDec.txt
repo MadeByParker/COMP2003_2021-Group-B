@@ -1,0 +1,28 @@
+Meeting events: 
+
+* Discussed the feedback received for the initial design
+
+The feedback received was well-appreciated as how it was expected due to the 
+initial design being on the low-fidelity side where we laid the foundations to the project.
+
+* Added some improvements to figma prototype
+
+Started to add in the feedback from the initial meeting
+
+* Reviewed our Sprint Plan since the Initial Meeting with the Client on 25th November
+
+We are a little bit behind in terms of schedule that we decided on initially and will be corrected in the new year.
+
+* Set out Sprint Plan until the Client Presentation (12/01/2021)
+
+Using Microsoft Office 365 Planner - Made sure that everything was balanced out in each sprint 
+
+* Initialised documentation for the client presentation
+
+Using Google Docs and we started to documentate it.
+
+* Tom was in charge of the github repository management and was as well managing what feedback we had completed in the 2 hours.
+* Harry discussed the sprint plans forward (deciding who is allocated which task is to) and reviewed the previous 
+* Oliver was researching how to set up a project in drupal as that's the preferred CMS requested by the client, 
+and was in charge of deciding what languages and frameworks we were confident in using.
+* James was productive in providing all the detailed feedback and the information from the client meeting.
