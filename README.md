@@ -4,6 +4,8 @@
 
 ### Welcome to Group B's COMP2003 Github Repository
 
+Results: 66/100
+
 This repository contains the source code and assets for the COMP2003 Coursework by Team B.
 
 The project is hosted on [Hostinger](https://www.hostinger.co.uk)
