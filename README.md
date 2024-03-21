@@ -8,11 +8,6 @@ Results: 66/100
 
 This repository contains the source code and assets for the COMP2003 Coursework by Team B.
 
-The project is hosted on [Hostinger](https://www.hostinger.co.uk)
-
-[Hosted Website](http://textpattern.oliverdonnellan.co.uk)
-
-
 | **Documents** | **Location** |
 | --- | ------ |
 | Final Demonstration (Powerpoint and Team Poster)  | [Final Demo](https://github.com/Plymouth-University/comp2003_2021-group-b/tree/main/Final%20Demo) |
@@ -25,7 +20,6 @@ The project is hosted on [Hostinger](https://www.hostinger.co.uk)
 | Wireframes | [Wireframes](https://github.com/Plymouth-University/comp2003_2021-group-b/tree/main/Wireframes/Completed%20Designs) |
 | Textpattern Documentation | [Textpattern](https://github.com/Plymouth-University/comp2003_2021-group-b/tree/main/textpattern) |
 | Source code modified with textpattern syntax | [Textpattern Source Code](https://github.com/Plymouth-University/comp2003_2021-group-b/tree/main/textpattern%20site%20code) |
-
 
 ### Group Name: COMP2003-2021-B
 
@@ -74,17 +68,10 @@ This Project was carried out to create a rebranded cross-platform website for th
 prevent non-admin users from accessing/editing certain content on the website
 * Add two different admin permissions, one admin role will have the ability to control the whole website, and the other will only be able to post.
 
-### Microsoft Planner - Group Backlog
-
-To view our project planner and sprint plans, please visit [this link](https://tasks.office.com/live.plymouth.ac.uk/Home/PlanViews/h5sVXiUYLUq-6ZmVql00uZYABS89?Type=PlanLink&Channel=Link&CreatedTime=637777245936490000 "Group B Kanban backlog").
-
-Download a [Excel Version](https://github.com/Plymouth-University/comp2003_2021-group-b/blob/main/Team%20Records/Group%20B%20Backlog.xlsx)
-
 ### Credits:
 
 | Library / Package | Link |
 | --- | ------ |
-| Hostinger | [Hostinger](https://www.hostinger.co.uk)
 | Textpattern CMS | [Textpattern](https://textpattern.com) |
 | Bootstrap 4.0.0 | [Boostrap 4.0 Documentation](https://getbootstrap.com/docs/4.0/getting-started/introduction/) |
 | Font Awesome Icons | [Font Awesome](https://fontawesome.com) |
