@@ -80,15 +80,44 @@ prevent non-admin users from accessing/editing certain content on the website
 
 ### Images:
 
+#### Home Page
 ![Home](https://imgur.com/UpF2J4a.png)
+
+<br/>
+
+#### Membership details: 
 ![Membership Information](https://imgur.com/TKqZvHX.png)
 ![Individual Form](https://imgur.com/0gDtovp.png)
 ![Family Form](https://imgur.com/WDLkW7i.png)
+
+<br/>
+
+#### Login:
 ![Login](https://imgur.com/nF9tTWV.png)
 ![Account Management](https://imgur.com/VjrdzcE.png)
 ![Edit Account](https://imgur.com/F44hUDi.png)
+
+<br/>
+
+#### About Page Sample:
 ![History of Society](https://imgur.com/CPtRCOG.png)
+
+<br/>
+
+#### The South Hams Page Sample:
 ![Landscape](https://imgur.com/rgFydX1.png)
+
+<br/>
+
+#### Planning Page Sample:
 ![Planning](https://imgur.com/ebXxy6S.png)
+
+<br/>
+
+#### 'Trees' Section Sample:
 ![Trees](https://imgur.com/rDpN508.png)
+
+<br/>
+
+#### Contact Page:
 ![Contact](https://imgur.com/PNvOian.png)
